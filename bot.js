@@ -1381,9 +1381,4 @@ alpha.reply("`تم حذف جميع الرتب بنجاح`")
 
 
 
-
-
-
-
-
 clinet.login(process.env.BOT_TOKEN);
