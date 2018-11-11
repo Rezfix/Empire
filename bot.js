@@ -1386,4 +1386,4 @@ alpha.reply("`تم حذف جميع الرتب بنجاح`")
 
 
 
-client.login('NTA3MjI1NDQ1NDQ4ODEwNDk2.DrtmHA.cikqFCtd5J1Xw5DI64OSurw7rtc');
+
