@@ -15,7 +15,7 @@ console.log(`Logged in as  * [ "  Nexta Codes " ] servers! [ " ${client.guilds.s
 client.on('ready', function(){
     client.user.setStatus("dnd");
     var ms = 100000 ;
-    var setGame = [`-help | https://Nexta.net SooN`];
+    var setGame = [`-help | https://NextaCodes.net SooN`];
     var i = -1;
     var j = 0;
     setInterval(function (){
@@ -93,8 +93,8 @@ client.on('message',async message => {
 \`\`\`js
 ${thisMessage}\`\`\`
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-**وصف الكود**: ${boi}
-**تم النشر بواسطة**: ${message.author}
+**الكود. | Code : **: ${boi}
+**من قبل . | By :**: ${message.author}
 **المصدر / الشخص الذي صنع الكود**: ${boi2}`);
           }
         }
